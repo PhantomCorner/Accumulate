@@ -11,7 +11,7 @@ import SwiftUI
 struct NumericInputModifier: ViewModifier {
     @Binding var text: String
     let allowDecimal: Bool
-    
+    // test
     func body(content: Content) -> some View {
         content
             .keyboardType(allowDecimal ? .decimalPad : .numberPad)
