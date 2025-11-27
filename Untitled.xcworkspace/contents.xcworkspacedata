@@ -1,4 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:accumulate"
+      name = "accumulate">
+      <FileRef
+         location = "group:accumulate.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:accumulate"
+         name = "accumulate">
+         <FileRef
+            location = "group:NumericInputExamplesView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:accumulateApp.swift">
+         </FileRef>
+         <FileRef
+            location = "group:APP_SUMMARY.md">
+         </FileRef>
+         <FileRef
+            location = "group:NumericTextField.swift">
+         </FileRef>
+         <FileRef
+            location = "group:NUMERIC_INPUT_GUIDE.md">
+         </FileRef>
+         <FileRef
+            location = "group:Assets.xcassets">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <FileRef
+            location = "group:StepFormViewModel.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SalaryProgressView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SwiftUIView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Untitled.xcworkspace">
+         </FileRef>
+         <FileRef
+            location = "group:ContentView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SalaryFormView.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Capabilities.">
+      </FileRef>
+      <Group
+         location = "group:accumulateTests"
+         name = "accumulateTests">
+         <FileRef
+            location = "group:accumulateTests.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:accumulateUITests"
+         name = "accumulateUITests">
+         <FileRef
+            location = "group:accumulateUITests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:accumulateUITestsLaunchTests.swift">
+         </FileRef>
+      </Group>
+   </Group>
 </Workspace>
